@@ -19,7 +19,7 @@ Follow these steps to get StudyNotion up and running on your local machine:
 1. Clone the StudyNotion repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/ashwinimishra24/StudyNotion.git
+   git clone https://github.com/Abhitre/StudyNotion.git
 
 ## Features
 
